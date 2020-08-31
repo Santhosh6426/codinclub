@@ -1,0 +1,223 @@
+    1  pwd
+    2  ps1='\u:\W\$'
+    3  PS1='\u:\W\$ '
+    4  git --version
+    5  mkdir TerminalCommands/
+    6  cd TerminalCommands
+    7  git config --global user.name "Santhosh642"
+    8  git config --global user.email "santosh.vg749@gmail.com"
+    9  pwd
+   10  git config --global usser.name "Santhosh642"
+   11  git config --global user.email "santosh.vg749@gmail.com"
+   12  mkdir TerminalCommands
+   13  cd TerminalCommands/
+   14  git clone https://github.com/edurekavivekh/linux-content
+   15  cd linux-content/
+   16  ls
+   17  linux_chit_sheet.pdf
+   18  cd linux_chit_sheet.pdf/
+   19  ls-al
+   20  ls -al
+   21  who
+   22  w
+   23  java -version
+   24  git clone https://github.com/edurekavivekh/linux-content.git
+   25  cd~
+   26  cd ~
+   27  git clone https://github.com/edurekavivekh/linux-content.git
+   28  clear
+   29  ls
+   30  cd linux-content/
+   31  ls
+   32  ls -l
+   33  ls -a
+   34  ls -a -l
+   35  ls -al
+   36  help
+   37  ls --help
+   38  cd --help
+   39  pwd
+   40  cd ~
+   41  cd ~
+   42  cd -
+   43  cd New folder/linux-content
+   44  pwd
+   45  cd Desktop/New folder/linux-content
+   46  pwd
+   47  cd desktop/
+   48  cd New folder/linux-content
+   49  cd new folder
+   50  pwd
+   51  ls
+   52  ls -a
+   53  cd ~/New folder/linux-content
+   54  cd ~
+   55  ls
+   56  cd desktop
+   57  cd New Folder/
+   58  ls
+   59  cd linux-content/
+   60  ls
+   61  mkdir temp
+   62  ls
+   63  touch mylog.log
+   64  ls
+   65  ls
+   66  clear
+   67  pwd
+   68  java --version
+   69  mkdir terminalcommands/
+   70  mkdir linuxcommands/
+   71  ls
+   72  cd linuxcommands/
+   73  git clone https://github.com/edurekavivekh/linux-content
+   74  ls
+   75  cd linux-content/
+   76  ls
+   77  cd linux_problem_sheet.pdf 
+   78  clear
+   79  history/
+   80  history
+   81  ls -al
+   82  ls -al
+   83  lsof
+   84  lsof
+   85  ls help
+   86  pwd
+   87  cd..
+   88  cd..
+   89  cd ..
+   90  cd ..
+   91  ls
+   92  pwd
+   93  cd ..
+   94  pwd
+   95  ls
+   96  cd Santhu/
+   97  pwd
+   98  cd Desktop/
+   99  ls
+  100  ls -al
+  101  mkdir linux
+  102  ls -al
+  103  cd linux/
+  104  ls
+  105  cd ..
+  106  ls
+  107  cat linux/
+  108  open linux/
+  109  help
+  110  clear
+  111  pwd
+  112  cd ..
+  113  pwd
+  114  cd ~
+  115  pwd
+  116  ls
+  117  cd linuxcommands/
+  118  ls
+  119  cd linux-content/
+  120  ls -l
+  121  ls -a
+  122  ls -al
+  123  cd ~
+  124  cd -
+  125  ls ..
+  126  cd ..
+  127  mkdir Temp
+  128  ls..
+  129  ls ..
+  130  ls
+  131  rm -R Temp/
+  132  ls
+  133  mkdir -p Temp/test
+  134  ls
+  135  ls Temp/
+  136  cd Temp/
+  137  touch a.txt b.txt
+  138  ls
+  139  rm a.txt
+  140  ls
+  141  cp b.txt z.txt
+  142  ls
+  143  mv b.txt z.txt
+  144  ls
+  145  mv z.txt y.txt
+  146  ls
+  147  where cp
+  148  ls bin
+  149  ls/bin/
+  150  ls /bin/
+  151  clear
+  152  pwd
+  153  cd ..
+  154  ls
+  155  cd linux-content/
+  156  ls
+  157  cat data.csv
+  158  clear
+  159  ls
+  160  cat access,log
+  161  cat access.log 
+  162  clear
+  163  ls
+  164  less access.log 
+  165  clear
+  166  head access.log 
+  167  head -4 access.log 
+  168  head -4 data.csv 
+  169  tail -4 data.csv 
+  170  find . -size +5m
+  171  find . -size +5M
+  172  find . -size -5M
+  173  find . -size -5M -name '*.pdf'
+  174  find . -size +5M -name '*.pdf'
+  175  find . -size +5M 
+  176  find . -size +5M |grep pdf
+  177  find . -size +5M |grep cjit
+  178  find . -size +5M |grep chit
+  179  find . -size +5M |grep 2b
+  180  find . -size +5M |grep sheet
+  181  clear
+  182  cat data.csv 
+  183  head -4 -8 data.csv 
+  184  head -8 data.csv |tail-4
+  185  head -8 data.csv | tail-4
+  186  head -8 data.csv | tail -4
+  187  cat data.csv |grep captain
+  188  cat data.csv |grep CAPTAIN
+  189  cat data.csv |grep CAPTAIN -v
+  190  cat data.csv |grep CAPTAIN -v
+  191  cat data.csv |grep -v CAPTAIN
+  192  clear
+  193  hitory
+  194  history
+  195  grep -ir captain .
+  196  grep 0 data.csv 
+  197  mkdir temp test
+  198  ls
+  199* 
+  200  ls |grep .
+  201  ls |grep -vls |grep -vls
+  202  ls |grep -vls |grep -v /
+  203  ls |grep -v /
+  204  cat access.log |grep username
+  205  env | grep USERNAME
+  206  env
+  207  env --help
+  208  du -sh .
+  209  du -sh linux-content/*
+  210  cd ..
+  211  du -sh linux-content/*
+  212  du -sk linux-content/*
+  213  du -sk linux-content/* -v
+  214  du -sk linux-content/* sort -v
+  215  du -sk linux-content/* -sort -v
+  216  du -sk linux-content/* |sort -v
+  217  du -sk linux-content/* | sort -v
+  218* 
+  219  du -sh linux-content/*
+  220  du -sk linux-content/* | sort
+  221  du -sk linux-content/* | sort -V
+  222  du -sk linux-content/* | sort -Vr
+  223  history > command.txt
